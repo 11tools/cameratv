@@ -10,7 +10,7 @@
 
 1. 在LiveTV上面选择本中间件
 
-![2](.\figure\2.png)
+![](https://github.com/11tools/cameratv/raw/master/figure/2.png)
 
 
 
@@ -18,17 +18,17 @@
 
    
 
-![7](.\figure\7.png)
+![7](https://github.com/11tools/cameratv/raw/master/figure/7.png)
 
-![8](.\figure\8.png)
+![8](https://github.com/11tools/cameratv/raw/master/figure/8.png)
 
-![7](.\figure\7.png)
+![7](https://github.com/11tools/cameratv/raw/master/figure/7.png)
 
 
 
 注意需要给中间件Camera权限，如果没有显示，在设置里面打开Camera权限
 
-![10](.\figure\10.png)
+![10](https://github.com/11tools/cameratv/raw/master/figure/10.png)
 
 ## 关于TIF框架
 
